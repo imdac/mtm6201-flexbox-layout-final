@@ -1,2 +1,4 @@
-# mtm6201-layout
-This repository contains the starter files for the Layout project.
+# Flexbox Layout
+
+## Objective
+Use flexbox to create the basic layout of the provided mockup.
